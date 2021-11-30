@@ -1,0 +1,17 @@
+body{
+    background-color: #D4F1F4;
+}
+
+div{
+    font-family: 'Times New Roman', Times, serif;
+    color: #258699;;
+    font-size: 30px;
+
+    
+}
+
+.header{
+    color: navy;
+    font-weight: bold;
+    font-size: 50px;
+}
